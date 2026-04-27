@@ -52,12 +52,6 @@ SportManagementSystem
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your project here (optional)*
-
----
-
 ## 🤝 Contribution
 
 Contributions are welcome!
@@ -73,7 +67,7 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-**Anurit Bagga**
+**Aditya Kumar Singh**
 
 * GitHub: https://github.com/adii191
 
